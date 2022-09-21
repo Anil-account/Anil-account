@@ -7,8 +7,6 @@
 
 - 👨‍🎓 I’m currently studying in **Softwarica college**
 
-- 🌱 I’m currently learning **Flutter**
-
 - 📫 How to reach me **thapaanil62@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

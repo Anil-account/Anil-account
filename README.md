@@ -5,7 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/aniltha68109783" target="blank"><img src="https://img.shields.io/twitter/follow/aniltha68109783?logo=twitter&style=for-the-badge" alt="aniltha68109783" /></a> </p>
 
-- 👨‍🎓 I’ve currently graduated from **Softwarica college**
+- 👨‍🎓 I am currently working at **Lions International MD 325, Nepal** as an IT Officer
+- www.lionsclubs.org.np
 
 - 📫 How to reach me **thapaanil62@gmail.com**
 

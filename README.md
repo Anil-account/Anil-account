@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanjaya Thapa</h1>
-<h3 align="center">I am enthusiast in frontend developer / backend developer</h3>
+<h3 align="center">I am enthusiast in UI/UX Design</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anil-account&label=Profile%20views&color=0e75b6&style=flat" alt="anil-account" /> </p>
 
